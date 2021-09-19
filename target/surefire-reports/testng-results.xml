@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-18T06:39:50Z" name="Suite" finished-at="2021-09-18T06:40:03Z" duration-ms="13284">
+    <groups>
+    </groups>
+    <test started-at="2021-09-18T06:39:50Z" name="Test" finished-at="2021-09-18T06:40:03Z" duration-ms="13284">
+      <class name="qaautomation.august2021.APITest">
+        <test-method is-config="true" signature="testLoginAPI()[pri:0, instance:qaautomation.august2021.APITest@28cb9120]" started-at="2021-09-18T06:39:45Z" name="testLoginAPI" finished-at="2021-09-18T06:39:50Z" duration-ms="5280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginAPI -->
+        <test-method signature="configAPI()[pri:0, instance:qaautomation.august2021.APITest@28cb9120]" started-at="2021-09-18T06:39:50Z" name="configAPI" finished-at="2021-09-18T06:39:52Z" duration-ms="2058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAPI -->
+        <test-method signature="dashboardAPIWithSchema()[pri:0, instance:qaautomation.august2021.APITest@28cb9120]" started-at="2021-09-18T06:39:52Z" name="dashboardAPIWithSchema" finished-at="2021-09-18T06:39:55Z" duration-ms="2810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dashboardAPIWithSchema -->
+        <test-method signature="fakerEmail()[pri:0, instance:qaautomation.august2021.APITest@28cb9120]" started-at="2021-09-18T06:39:55Z" name="fakerEmail" finished-at="2021-09-18T06:39:55Z" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fakerEmail -->
+        <test-method signature="incorrectLoginAPI()[pri:0, instance:qaautomation.august2021.APITest@28cb9120]" started-at="2021-09-18T06:39:55Z" name="incorrectLoginAPI" finished-at="2021-09-18T06:39:57Z" duration-ms="1925" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- incorrectLoginAPI -->
+        <test-method signature="testLoginAPI()[pri:0, instance:qaautomation.august2021.APITest@28cb9120]" started-at="2021-09-18T06:39:57Z" name="testLoginAPI" finished-at="2021-09-18T06:39:59Z" duration-ms="2148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginAPI -->
+        <test-method signature="userAPI()[pri:2, instance:qaautomation.august2021.APITest@28cb9120]" started-at="2021-09-18T06:39:59Z" name="userAPI" finished-at="2021-09-18T06:40:01Z" duration-ms="2018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userAPI -->
+        <test-method signature="dashboardAPI()[pri:3, instance:qaautomation.august2021.APITest@28cb9120]" started-at="2021-09-18T06:40:01Z" name="dashboardAPI" finished-at="2021-09-18T06:40:03Z" duration-ms="2082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dashboardAPI -->
+      </class> <!-- qaautomation.august2021.APITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
